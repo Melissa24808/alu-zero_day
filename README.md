@@ -1,1 +1,1 @@
-My frist readme
+# alu-day_day repository
