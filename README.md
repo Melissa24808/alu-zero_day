@@ -1,1 +1,1 @@
-# alu-day_day repository
+# alu-day day repository
